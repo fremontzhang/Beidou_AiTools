@@ -1,0 +1,5 @@
+{
+  "name": "BeidouAITools",
+  "description": "A Facebook Video Analytics MVP using Apify for data extraction and Gemini for strategic insights.",
+  "requestFramePermissions": []
+}
